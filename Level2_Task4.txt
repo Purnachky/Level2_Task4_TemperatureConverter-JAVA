@@ -1,0 +1,9 @@
+TemperatureConvertor:
+
+Choose Temperature conversion type: 
+0: Celsius to Fahrenheit
+1: Farenheit to Celsius
+0
+Enter temp in Celsius: 
+23
+Fahrenheit: 73F
